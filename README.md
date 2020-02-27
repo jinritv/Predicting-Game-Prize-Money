@@ -1,6 +1,7 @@
 # Predicting-Game-Prize-Money
 Hi guys! Welcome to JinriTV Co.
 
+
 ## contributors:
 YMF292, blazers15, 
 
@@ -11,6 +12,8 @@ YMF292, blazers15,
 ## DEC 2019:
 - Data Reconstruction
   - Added New columns: Years, Month, Duration, On/Off
+*where Jinri was (20191217):
+https://clips.twitch.tv/SuperPhilanthropicDogeStoneLightning
 
 ## FEB 2020:
 - Data Reconstruction
@@ -23,4 +26,4 @@ DONE WITH DATA CONSTUCTION!!!!! (Prize Predict_LEE.csv)
   - Country to Month: How many countries held a tournament in each Month?
   - Tournament count to time for top 20 games in prize money
 
-## 
+## MAR 2020:
