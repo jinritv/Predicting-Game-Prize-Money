@@ -12,7 +12,7 @@ So this made me wonder by different countries and time, how much prize money has
 I hope by doing so, we can get some parents thinking positively about becoming a progammer or working in the gaming industry!!!
 
 ## contributors:
-YMF292, blazers15, Chohonggam, blazers15
+YMF292, blazers15, Chohonggam, 
 
 *if you want to participate, join anytime when I code in stream and help out with any coding and give me a headsup!*
 
