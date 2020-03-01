@@ -12,10 +12,17 @@ So this made me wonder by different countries and time, how much prize money has
 I hope by doing so, we can get some parents thinking positively about becoming a progammer or working in the gaming industry!!!
 
 ## contributors:
-YMF292, blazers15, Chohonggam
+YMF292, blazers15, Chohonggam, blazers15
 
 *if you want to participate, join anytime when I code in stream and help out with any coding and give me a headsup!*
 
+## HOMEWORK
+- Future work:
+  - Team/Indiv vs Prize Money (Histogram)
+  - On/Off vs prize money (histogram)
+  - Duration vs prize money (bar graph)
+  
+# Programming Log
 ## NOV 2019:
 - Started this project of predicting Esports tournament prize money.
 - Scrapped data from Esports Earnings into CSV (https://www.esportsearnings.com/games)
@@ -35,5 +42,8 @@ DONE WITH DATA CONSTUCTION!!!!! (Prize Predict_LEE.csv)
 - EDA (Explanatory Data Analysis)
   - Country to Month: How many countries held a tournament in each Month?
   - Tournament count to time for top 20 games in prize money
-
+ 
 ## MAR 2020:
+- EDA continues
+  - Tournament count to time for top 20 games in prize money
+  - Country to Prize Money: How much total prize money each country spent between the data points
