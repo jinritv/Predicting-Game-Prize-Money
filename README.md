@@ -40,10 +40,14 @@ YMF292, blazers15, Chohonggam,
 DONE WITH DATA CONSTUCTION!!!!! (Prize Predict_LEE.csv)
 - Start of Github *(Help needed, looking for Github helpers)*
 - EDA (Explanatory Data Analysis)
-  - Country to Month: How many countries held a tournament in each Month?
+  - Prize to Month: Total amount of prize in each Month
+
   - Tournament count to time for top 20 games in prize money
  
 ## MAR 2020:
 - EDA continues
   - Tournament count to time for top 20 games in prize money
   - Country to Prize Money: How much total prize money each country spent between the data points
+  - Online|Offline vs Prize Money
+  - Team play|solo vs Prize Money
+  - Top 5 games vs prize money
