@@ -51,3 +51,11 @@ DONE WITH DATA CONSTUCTION!!!!! (Prize Predict_LEE.csv)
   - Online|Offline vs Prize Money
   - Team play|solo vs Prize Money
   - Top 5 games vs prize money
+
+## APR 2020:
+- LETS FINISH EDA!!
+  - Changed online|offline vs Prize money to line graph in terms of years
+  - Changed Team|solo vs Prize money to line graph in terms of years
+  - Count of Online|Offline Stacked line graph
+  - Count of team | Solo stacked line graph
+- Correlation of the graph has been created!! :D
